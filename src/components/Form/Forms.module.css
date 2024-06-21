@@ -1,0 +1,35 @@
+.form_container {
+  margin-top: 5rem;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.title {
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.form_content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50vw;
+  margin-bottom: 1rem;
+}
+.label {
+  color: white;
+  font-size: 1em;
+}
+
+.input {
+  margin-bottom: 0.7em;
+  background-color: #010409;
+  border: 1px solid #8b949d;
+  border-radius: 0.5em;
+  padding: 1em;
+  color: #dbe2e8;
+  outline: none;
+}
